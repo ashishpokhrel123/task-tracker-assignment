@@ -29,11 +29,15 @@ Clone this repository to your local machine.
 For the backend, navigate to api/src and run npm install.
 For the frontend, navigate to client and run npm install.
 Technologies Used
+
 Backend
+
 Node.js
 Express.js
 In-memory data store
 Frontend
+
+
 React.js
 Tailwind CSS
 Ant Design for notifications
